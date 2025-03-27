@@ -20,9 +20,9 @@ const TrendingBrands = () => {
     },
     {
       id: 3,
-      name: 'SHEIN MOD',
+      name: 'FFINGER MOD',
       imageUrl: 'https://ext.same-assets.com/3074087479/2136295408.webp',
-      link: '/brands/shein-mod',
+      link: '/brands/FFINGER-mod',
     },
     {
       id: 4,
@@ -32,9 +32,9 @@ const TrendingBrands = () => {
     },
     {
       id: 5,
-      name: 'SHEIN BAE',
+      name: 'FFINGER BAE',
       imageUrl: 'https://ext.same-assets.com/3074087479/558321662.webp',
-      link: '/brands/shein-bae',
+      link: '/brands/FFINGER-bae',
     }
   ];
 
