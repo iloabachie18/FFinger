@@ -39,7 +39,7 @@ const Header = () => {
       <div className="container mx-auto py-3 px-4 flex justify-between items-center">
         {/* Logo */}
         <Link href="/" className="flex-shrink-0">
-          <h1 className="text-4xl font-bold tracking-wide">SHEIN</h1>
+          <h1 className="text-4xl font-bold tracking-wide">FFINGER</h1>
         </Link>
 
         {/* Search Bar */}
