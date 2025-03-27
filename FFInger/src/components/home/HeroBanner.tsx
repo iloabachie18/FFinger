@@ -15,7 +15,7 @@ const HeroBanner = () => {
     {
       id: 1,
       title: 'Spring Collection 2025',
-      description: 'WELCOME TO THE SHEIN U.S SITE!',
+      description: 'WELCOME TO THE FFINGER U.S SITE!',
       imageUrl: 'https://ext.same-assets.com/3074087479/262674179.webp',
       ctaLabel: 'Shop Now',
       ctaLink: '/collection/spring-2025',
