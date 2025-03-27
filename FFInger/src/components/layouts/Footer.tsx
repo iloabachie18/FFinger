@@ -13,7 +13,7 @@ const Footer = () => {
           <div>
             <h6 className="text-xs font-bold mb-4 uppercase">Company Info</h6>
             <ul className="space-y-2 text-sm">
-              <li><Link href="/about" className="hover:underline">About SHEIN</Link></li>
+              <li><Link href="/about" className="hover:underline">About FFINGER</Link></li>
               <li><Link href="/sustainability" className="hover:underline">Sustainability</Link></li>
               <li><Link href="/fashion-blogger" className="hover:underline">Fashion Blogger</Link></li>
               <li><Link href="/supply-chain" className="hover:underline">Supply Chain</Link></li>
@@ -32,8 +32,8 @@ const Footer = () => {
               <li><Link href="/how-to-order" className="hover:underline">How to Order</Link></li>
               <li><Link href="/how-to-track" className="hover:underline">How to Track</Link></li>
               <li><Link href="/size-guide" className="hover:underline">Size Guide</Link></li>
-              <li><Link href="/shein-vip" className="hover:underline">SHEIN VIP</Link></li>
-              <li><Link href="/sell-on-shein" className="hover:underline">Sell on SHEIN</Link></li>
+              <li><Link href="/FFinger-vip" className="hover:underline">FFINGER VIP</Link></li>
+              <li><Link href="/sell-on-FFinger" className="hover:underline">Sell on FFINGER</Link></li>
             </ul>
           </div>
 
@@ -53,19 +53,19 @@ const Footer = () => {
           <div>
             <h6 className="text-xs font-bold mb-4 uppercase">Find Us On</h6>
             <div className="flex space-x-3 mb-6">
-              <Link href="https://facebook.com/shein" className="hover:text-gray-600" target="_blank" rel="noopener noreferrer">
+              <Link href="https://facebook.com/FFinger" className="hover:text-gray-600" target="_blank" rel="noopener noreferrer">
                 <Facebook size={20} />
               </Link>
-              <Link href="https://instagram.com/shein" className="hover:text-gray-600" target="_blank" rel="noopener noreferrer">
+              <Link href="https://instagram.com/FFinger" className="hover:text-gray-600" target="_blank" rel="noopener noreferrer">
                 <Instagram size={20} />
               </Link>
-              <Link href="https://twitter.com/shein" className="hover:text-gray-600" target="_blank" rel="noopener noreferrer">
+              <Link href="https://twitter.com/FFinger" className="hover:text-gray-600" target="_blank" rel="noopener noreferrer">
                 <Twitter size={20} />
               </Link>
-              <Link href="https://youtube.com/shein" className="hover:text-gray-600" target="_blank" rel="noopener noreferrer">
+              <Link href="https://youtube.com/FFinger" className="hover:text-gray-600" target="_blank" rel="noopener noreferrer">
                 <Youtube size={20} />
               </Link>
-              <Link href="https://linkedin.com/company/shein" className="hover:text-gray-600" target="_blank" rel="noopener noreferrer">
+              <Link href="https://linkedin.com/company/FFinger" className="hover:text-gray-600" target="_blank" rel="noopener noreferrer">
                 <Linkedin size={20} />
               </Link>
             </div>
@@ -73,9 +73,9 @@ const Footer = () => {
 
           {/* Download App */}
           <div>
-            <h6 className="text-xs font-bold mb-4 uppercase">Download SHEIN App To Save More!</h6>
+            <h6 className="text-xs font-bold mb-4 uppercase">Download FFINGER App To Save More!</h6>
             <div className="flex space-x-2 mb-4">
-              <Link href="https://apps.apple.com/us/app/shein-fashion-shopping" className="block" target="_blank" rel="noopener noreferrer">
+              <Link href="https://apps.apple.com/us/app/FFinger-fashion-shopping" className="block" target="_blank" rel="noopener noreferrer">
                 <div className="bg-black text-white rounded p-1 text-xs w-28">
                   <p className="text-[8px]">Download on the</p>
                   <p className="font-bold">App Store</p>
@@ -93,7 +93,7 @@ const Footer = () => {
 
         {/* Newsletter */}
         <div className="mt-8 mb-6">
-          <h6 className="text-xs font-bold mb-4 uppercase">Sign up for SHEIN style news</h6>
+          <h6 className="text-xs font-bold mb-4 uppercase">Sign up for FFINGER style news</h6>
           <div className="flex max-w-md">
             <div className="w-full">
               <Input
@@ -129,7 +129,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <div className="text-xs text-center mt-6">
-          <p>©2009-2025 SHEIN All Rights Reserved</p>
+          <p>©2009-2025 FFINGER All Rights Reserved</p>
           <div className="flex flex-wrap justify-center mt-2 gap-2">
             <Link href="/privacy-center" className="hover:underline">Privacy Center</Link>
             <span>|</span>
